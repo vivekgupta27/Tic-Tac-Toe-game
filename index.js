@@ -77,5 +77,6 @@ const checkWinner=()=>{
         
 
 }
+return false;
 }
 resetbtn.addEventListener("click",resetGame);
